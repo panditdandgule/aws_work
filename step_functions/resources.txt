@@ -1,0 +1,31 @@
+Here are some useful links from the previous lesson:
+
+Here are some useful links from the previous lesson:
+
+* The official documentation on retry behaviour: https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-errors.html#amazon-states-language-retrying-after-error
+
+Here are some useful links from the previous lesson:
+
+* The official documentation on retry behaviour: https://docs.aws.amazon.com/step-functions/latest/dg/amazon-states-language-errors.html#amazon-states-language-retrying-after-error
+
+
+Here are some useful links from the previous lesson:
+
+* The official documentation on Step Functions service limits: https://docs.aws.amazon.com/step-functions/latest/dg/limits.html
+
+
+Here are some useful links from the previous lesson:
+
+* The official tutorial (https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-cloudwatch-events-s3.html) on triggering a state machine execution using S3 event
+* The example project used in the lesson: https://github.com/theburningmonk/complete-guide-to-step-functions-examples/tree/master/Triggers/CloudWatch%20Event
+
+
+* The state language spec: https://states-language.net/spec.html
+* The Serverless framework: (https://serverless.com/)
+* The serverless-step-functions (https://github.com/horike37/serverless-step-functions) plugin that lets you create state machines with the Serverless framework
+* The pricing page (https://aws.amazon.com/step-functions/pricing/) for Step Functions
+
+Here are some useful links from the previous lesson:
+
+* The official tutorial (https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-api-gateway.html) on triggering a state machine execution using API Gateway
+* The example project used in the lesson: https://github.com/theburningmonk/complete-guide-to-step-functions-examples/tree/master/Triggers/API%20Gateway
